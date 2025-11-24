@@ -58,6 +58,19 @@ UNVEIL/
 
 ---
 
+## 👥 팀원 소개
+
+| 역할                | GitHub                                         |
+| ------------------- | ---------------------------------------------- |
+| BE     | [wlgusqkr](https://github.com/wlgusqkr)       |
+| BE     | [sunnyanna0](https://github.com/sunnyanna0)   |
+| BE     | [DOHOON0127](https://github.com/DOHOON0127)   |
+| FE | [hansol65](https://github.com/hansol65)       |
+| FE | [fbehdgus906](https://github.com/fbehdgus906) |
+| FE | [kiyeonkimm](https://github.com/kiyeonkimm)   |
+
+---
+
 ### 커스텀 음향 분석 엔진
 
 기존 라이브러리는 표준 옥타브 밴드별 RT60만 제공하지만, 우리는 **특정 저주파 대역(125~500Hz)과 고주파 대역을 정밀하게 타겟팅**해야 했습니다.
