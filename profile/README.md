@@ -16,6 +16,10 @@ UNVEIL은 청년들의 자취방에서 마주하는 **'보이지 않는 리스�
 
 ### 1. 소음 분석 (Echo Zone)
 
+
+https://github.com/user-attachments/assets/ce2468d7-97f8-4969-ba9b-9105000e7688
+
+
 원룸에서 옆방의 말소리가 벽을 타고 넘어오는 **'벽간 소음'** 진단
 
 - 핑 소리 재생 후 반향음 분석
@@ -23,6 +27,10 @@ UNVEIL은 청년들의 자취방에서 마주하는 **'보이지 않는 리스�
 - 등급: A (흡음) / B (콘크리트) / C (가벽 의심)
 
 ### 2. 안전도 분석 (Light Zone)
+
+
+https://github.com/user-attachments/assets/e9f91eb0-7317-43b2-9e55-6da376b19dd0
+
 
 - 분석 반경: 기준 위치 100m 반경 내 CCTV 수·가로등 수 분석
 - 시각화: CCTV는 반경 30m 파란 원, 가로등은 반경 15m 노란 원으로 지도 표시
